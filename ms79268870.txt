@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "tangismedia.pythonanywhere.com",
+  "Id": "2aef05d8-c1ea-40d3-9c82-6e28e288babb"
+}
